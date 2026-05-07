@@ -1,6 +1,6 @@
 # AvaliBot_Modules
 repo containing modules for AvaliBot
 
-bot repo: https://github.com/voxyavali/avalibot
+bot repo: https://github.com/voxyfluff/avalibot
 #
-Module Status: https://github.com/users/VoxyAvali/projects/5
+Module Status: https://github.com/users/voxyfluff/projects/5
